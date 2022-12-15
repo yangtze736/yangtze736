@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yangtze736
 - 👀 I’m interested in trekking & software engineering.
-- 🌱 I’m currently learning calligraphy && HPC.
+- 🌱 I’m currently learning calligraphy & HPC.
 - 💞️ I’m looking to collaborate on HPC scheduler & HPC burstbuffer.
 - 📫 How to reach me jiangzheahu@126.com
 
