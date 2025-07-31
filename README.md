@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22)好柿花生&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22) 好柿花生 &center=true&size=27)](https://git.io/typing-svg)
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -33,9 +33,6 @@
 
 - 👋 Hi, I’m @yangtze736
 - 👀 I’m interested in trekking & calligraphy & software engineering.
-- 🌱 I’m currently learning High-performance computing.  
-- 💞️ I’m looking to collaborate on HPC scheduler & HPC burstbuffer & HPC application I/O characterization.
-
 
 </td></tr>
 
